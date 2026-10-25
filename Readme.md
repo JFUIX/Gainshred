@@ -1,4 +1,4 @@
-# Gain Shred Gym
+# GainShred Gym
 
 A gym website concept built around a bold black and neon lime look and feel.
 
