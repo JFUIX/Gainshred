@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="GainShred Gym" width="100%">
+<img src="assets/banner.png" alt="GAINSHRED GYM" width="100%">
 
 # GainShred Gym
 
