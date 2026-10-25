@@ -1,29 +1,39 @@
+<div align="center">
+
+<img src="assets/banner.png" alt="GainShred Gym" width="100%">
+
 # GainShred Gym
 
-A gym website concept built around a bold black and neon lime look and feel.
+**Build. Shred. Transform.**
 
-**[View Live Website](https://jfuix.github.io/Gainshred/)**
+A bold black and neon lime gym website with memberships, a BMI calculator and member transformations.
 
-## About the Project
+[Features](#features) · [Demo](https://jfuix.github.io/Gainshred/) · [Run locally](#run-locally) · [Credits](#credits)
 
-Gain Shred is a website concept for a modern fitness gym. The idea was to create a strong visual identity and make it easy for visitors to explore the gym, check membership plans, and learn more about what it offers.
+</div>
 
-## What’s Included
+---
 
-- A bold landing page with clear calls to action
-- Gym benefits and membership plans
-- Transformation and social sections
-- Location information
-- Responsive layouts for desktop and mobile
-- Smooth scrolling and hover effects
+## Features
 
-## Built With
+- [x] Responsive landing page
+- [x] Membership plans (Monthly, Quarterly, Annual)
+- [x] Built-in BMI calculator (metric and imperial)
+- [x] Before and after results section
+- [x] Location and WhatsApp contact
+- [ ] Online sign-up (coming soon)
 
-- HTML
-- CSS
+<img src="assets/screenshot.png" alt="GainShred preview" width="100%">
 
-## Links
+## Run locally
 
-- **Live Website:** [https://jfuix.github.io/Gainshred/](https://jfuix.github.io/Gainshred/)
-- **GitHub Repository:** [https://github.com/JFUIX/Gainshred](https://github.com/JFUIX/Gainshred)
-- **Developer:** [JAFFERY-JFUIX](https://github.com/JFUIX)
+```bash
+git clone https://github.com/JFUIX/Gainshred.git
+cd Gainshred
+```
+
+Open `index.html` in your browser. No build step needed.
+
+## Credits
+
+Designed and developed by [JAFFERY_JFUIX](https://github.com/JFUIX). Demo version.
