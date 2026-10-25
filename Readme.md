@@ -2,7 +2,7 @@
 
 <img src="assets/banner.png" alt="GAINSHRED GYM" width="100%">
 
-# GainShred Gym
+# GAINSHRED GYM
 
 **Build. Shred. Transform.**
 
