@@ -24,7 +24,7 @@ A bold black and neon lime gym website with memberships, a BMI calculator and me
 - [ ] Online sign-up (coming soon)
 
 <img src="assets/screenshot.png" alt="GainShred preview" width="100%">
-
+<img src="assets/bmi.png" alt="BMI calculator" width="100%">
 ## Run locally
 
 ```bash
