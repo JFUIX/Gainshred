@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="GainShred Gym website banner" width="100%">
+<img src="assets/banner.png" alt="Gain Shred Gym website banner" width="100%">
 
-# GainShred Gym
+# Gain Shred Gym
 
 **Build. Shred. Transform.**
 
@@ -16,7 +16,7 @@ A bold, responsive gym website concept featuring membership plans, a BMI calcula
 
 ## About the Project
 
-GainShred is a gym website concept designed to give a fitness business a strong digital first impression. The experience uses a high-contrast black and neon-lime visual identity, bold display typography, clear membership plan sections, and prominent contact calls to action.
+Gain Shred is a gym website concept designed to give a fitness business a strong digital first impression. The experience uses a high-contrast black and neon-lime visual identity, bold display typography, clear membership plan sections, and prominent contact calls to action.
 
 The page combines business information with a simple interactive BMI calculator to help visitors explore the gym concept and engage with the site.
 
@@ -46,15 +46,15 @@ A local gym website needs to communicate its identity, membership options, and n
 
 ### Website Preview
 
-<img src="assets/screenshot.png" alt="GainShred Gym website preview" width="100%">
+<img src="assets/screenshot.png" alt="Gain Shred Gym website preview" width="100%">
 
 ### BMI Calculator
 
-<img src="assets/bmi.png" alt="GainShred BMI calculator interface" width="100%">
+<img src="assets/bmi.png" alt="Gain Shred BMI calculator interface" width="100%">
 
 ## Live Demo
 
-[Visit GainShred Gym](https://jfuix.github.io/Gainshred/)
+[Visit Gain Shred Gym](https://jfuix.github.io/Gainshred/)
 
 ## Run Locally
 
